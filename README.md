@@ -3,11 +3,11 @@ Showcase your skills! Create projects in any language of your choice
 
 
 **Code of Conduct**
-1- Each file of your project must be under a folder of your name 
-2- Check the projects before creating a pull request
+1. Each file of your project must be under a folder of your name 
+2. Check the projects before creating a pull request
 
-**Steps to contribute**
-1- Fork this repository. (This will create a copy of this repo to your side)
-2- Upload Folder inside the repo. 
-3- Commit with appropriate messages. 
-4- Make Pull request.
+**Steps to contribute** 
+1. Fork this repository. (This will create a copy of this repo to your side)
+2. Upload Folder inside the repo. 
+3. Commit with appropriate messages. 
+4. Make Pull request.
